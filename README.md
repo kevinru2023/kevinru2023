@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kevin Rubio</h1>
-<h3 align="left">A computer science student with a passion in cybersec, frontend and backend</h3>
+<h3 align="left">A computer science student with a passion in data science and backend development</h3>
 
 
-- 🔭 I’m currently working on a **http server in c**
+- 🔭 I’m currently working on a **REST API for OSU course information**
 
-- 🌱 I’m currently learning **Next.js, WinDbg**
+- 🌱 I’m currently learning **Fastapi, Pandas**
 
 - 📫 How to reach me **kevinru2005@gmail.com**
 
