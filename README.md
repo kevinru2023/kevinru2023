@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a **REST API for OSU course information**
 
-- 🌱 I’m currently learning **Fastapi, Pandas**
+- 🌱 I’m currently learning **FastAPI, Pandas**
 
 - 📫 How to reach me **kevinru2005@gmail.com**
 
