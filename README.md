@@ -2,9 +2,9 @@
 <h3 align="left">A computer science student with a passion in data science and backend development</h3>
 
 
-- 🔭 I’m currently working on a **REST API for OSU course information**
+- 🔭 I’m currently working on a **Collaborative Document Website for Markdown**
 
-- 🌱 I’m currently learning **FastAPI, Pandas**
+- 🌱 I’m currently learning **Django, NextJS**
 
 - 📫 How to reach me **kevinru2005@gmail.com**
 
