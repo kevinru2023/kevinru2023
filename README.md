@@ -2,9 +2,9 @@
 <h3 align="left">A computer science student with a passion in data science and backend development</h3>
 
 
-- 🔭 I’m currently working on a **Collaborative Document Website for Markdown**
+- 🔭 I’m currently working on a **Personal Portifilo Website**
 
-- 🌱 I’m currently learning **Django, NextJS**
+- 🌱 I’m currently learning **Java, SQL**
 
 - 📫 How to reach me **kevinru2005@gmail.com**
 
