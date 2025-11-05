@@ -2,7 +2,7 @@
 <h3 align="left">A computer science student with a passion in data science and backend development</h3>
 
 
-- 🔭 I’m currently working on a **preparing for interviews**
+- 🔭 I’m currently working on **preparing for interviews**
 
 - 🌱 I’m currently learning **Java, Rust, and SQL**
 
