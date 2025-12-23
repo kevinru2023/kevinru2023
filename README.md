@@ -2,7 +2,7 @@
 <h3 align="left">A computer science student with a passion in software engineering primarly focused on data & automation</h3>
 
 
-- 🔭 I’m currently working on **web application that allows users to share CS related resources**
+- 🔭 I’m currently working on **learning system design and DSA**
 
 - 🌱 I’m currently learning **Rust & Next.JS**
 
