@@ -2,7 +2,7 @@
 
 <p align="center">
   CS senior at <b>Oregon State University</b> (Math minor) · Student Technician on OSU's Identity & Access Management team<br/>
-  Interested in systems, backend, and security · <b>Looking for new grad SWE roles</b>
+  I build <b>web apps</b>, <b>mobile apps</b>, and <b>IT tooling & automation</b> · Looking for new grad SWE roles
 </p>
 
 <p align="center">
@@ -13,30 +13,32 @@
 ---
 
 ### 🛠️ Tech
-**Languages:** C · C++ · Rust · Python · TypeScript/JavaScript · Go · Kotlin · SQL
-**Web / backend:** React · Next.js · React Native/Expo · Node/Express · FastAPI · Flask · Django · PostgreSQL · MongoDB · Supabase
-**Systems / tools:** Linux · Docker · Git · pwntools · Binary Ninja · GDB
+**Web:** TypeScript/JavaScript · React · Next.js · Tailwind · Node/Express · FastAPI · Flask · Django · PostgreSQL · MongoDB · Supabase
+**Mobile:** React Native/Expo · Kotlin (Android, CameraX, Room)
+**Automation / IT:** Python · REST APIs · web scraping · Docker · GitHub Actions CI/CD · Linux · Grouper (IAM)
+**Also:** Go · Rust · C/C++ · SQL
 
 ---
 
-### 🤖 AI projects
+### 🌐 Web & mobile
 | Project | What it is | Stack |
 |---|---|---|
-| [**Mosaic**](https://github.com/kevinru2023/Mosaic) | Group travel planner with a custom recommendation feed. **CalHacks 12.0** | React Native, Flask, Elasticsearch, Supabase |
-| [**course_llm_wiki**](https://github.com/kevinru2023/course_llm_wiki) | LLM-maintained knowledge base: Claude Code ingests lectures, cross-links concepts, and builds study guides via custom slash commands | Claude Code, Obsidian, MCP |
-| [**gemini-camera-translator**](https://github.com/kevinru2023/gemini-camera-translator) | Android app that translates text in photos with Gemini multimodal + structured JSON output (I built the camera pipeline). CS 492 team project | Kotlin, CameraX, Gemini, Room |
-
-### 🚀 More projects
-| Project | What it is | Stack |
-|---|---|---|
-| [**greeney**](https://github.com/kevinru2023/greeney) | Carbon footprint tracker for rides, deliveries, and flights. **BeaverHacks 2025** | Next.js, TypeScript, Flask |
+| [**Mosaic**](https://github.com/kevinru2023/Mosaic) | Mobile group travel planner with a custom recommendation feed. **CalHacks 12.0** | React Native, Flask, Elasticsearch, Supabase |
+| [**greeney**](https://github.com/kevinru2023/greeney) | Carbon footprint tracker for rides, deliveries, and flights. **BeaverHacks 2025** | Next.js, TypeScript, Tailwind, Flask |
 | [**crowd**](https://github.com/kevinru2023/crowd) | Event discovery & ticketing app with Stripe checkout and QR ticket verification. **DubHacks** | Expo/React Native, Express, MongoDB, Auth0 |
+| [**gemini-camera-translator**](https://github.com/kevinru2023/gemini-camera-translator) | Android app that translates text in photos with Gemini multimodal (I built the camera pipeline). CS 492 team project | Kotlin, CameraX, Gemini, Room |
 | [**notic3**](https://github.com/kevinru2023/notic3) | Blockchain platform for content creators. **CalHacks 2024** | Next.js, Sui Move |
-| [**course-rest-api**](https://github.com/kevinru2023/course-rest-api) | API serving Oregon transfer-credit → OSU course equivalencies, scraped and refreshed weekly | FastAPI, Docker |
-| [**mini-projects**](https://github.com/kevinru2023/mini-projects) | Small builds: caching proxy (Rust/axum), port scanner (C++), weather CLI and TUI apps (Go) | Rust, Go, C++, Python |
-| [**chart-app-testing**](https://github.com/kevinru2023/chart-app-testing) | Unit/integration/E2E test suite + CI for a SvelteKit app (I set up the CI/CD pipeline). CS 362 team project | Vitest, Playwright, GitHub Actions |
-| [**Legion-Of-Code**](https://github.com/kevinru2023/Legion-Of-Code) | Workout planning app with full UML/design docs, 7-person team. CS 361 | Python, PlantUML |
+
+### ⚙️ IT tooling & automation
+| Project | What it is | Stack |
+|---|---|---|
+| [**pygrouper**](https://github.com/OSU-IAM/pygrouper/pull/10) | Contribution to OSU IAM's Python client for the Grouper identity-management API: `add_members()` can now pass membership options (e.g. disabled/expiration time). Released in v1.0.7 | Python, REST API |
+| [**course-rest-api**](https://github.com/kevinru2023/course-rest-api) | Scrapes Oregon transfer-credit tables into an API of OSU course equivalencies, refreshed weekly | FastAPI, BeautifulSoup, Docker |
+| [**course_llm_wiki**](https://github.com/kevinru2023/course_llm_wiki) | LLM-automated knowledge base: Claude Code slash commands ingest lectures, cross-link concepts, lint the wiki, and generate study guides | Claude Code, Obsidian, MCP |
+| [**chart-app-testing**](https://github.com/kevinru2023/chart-app-testing) | Test suite + CI/CD for a SvelteKit app (I set up the GitHub Actions pipeline). CS 362 team project | GitHub Actions, Playwright, Vitest |
+
+**More:** [mini-projects](https://github.com/kevinru2023/mini-projects) (Rust caching proxy, C++ port scanner, Go CLIs) · [Legion-Of-Code](https://github.com/kevinru2023/Legion-Of-Code) (CS 361 team app)
 
 **Clubs & open source:** [beavbright](https://github.com/kevinru2023/beavbright), [MyDegrees extension](https://github.com/kevinru2023/mydegrees-chrome-extension), [App Club website](https://github.com/kevinru2023/website), [winter term arcade](https://github.com/kevinru2023/wintertermproject) (OSU App Dev Club) · merged contribution to [Zed](https://github.com/zed-industries/zed/pull/42214) (outline panel)
 
-**Practice:** [competitive-programming](https://github.com/kevinru2023/competitive-programming) · [advent-of-code](https://github.com/kevinru2023/advent-of-code) · [ctfwriteups](https://github.com/kevinru2023/ctfwriteups) (DamCTF, OSU CTF League)
+**Practice:** [competitive-programming](https://github.com/kevinru2023/competitive-programming) · [advent-of-code](https://github.com/kevinru2023/advent-of-code) · [ctfwriteups](https://github.com/kevinru2023/ctfwriteups)
